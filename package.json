@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "name": "app",
+  "private": "true",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "crypto-js": "^3.1.9-1",
+    "express": "*",
+    "sha256": "^0.2.0",
+    "socket.io": "*"
+  }
+}
